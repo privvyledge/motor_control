@@ -1,0 +1,1 @@
+This package implements several control modes, e.g position, speed, etc. for different motors such as servo, stepper, brushed and brushless motors using PID, LQR and MPC. C++, Arduino, Python and MATLAB/SIMULINK examples included.
